@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117522703947",
+    "project_id": "salesnayaknotification",
+    "storage_bucket": "salesnayaknotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117522703947:android:e4b8d9b9feba36d9584fce",
+        "android_client_info": {
+          "package_name": "com.salesnayak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117522703947-qdatml3maenfsgo5gg7ck6lnv1a5fpat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBerJUc4T7L75pSNlwlRFPJ830GBY3FFws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117522703947-qdatml3maenfsgo5gg7ck6lnv1a5fpat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
